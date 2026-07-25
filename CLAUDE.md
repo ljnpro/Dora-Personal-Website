@@ -3,6 +3,9 @@
 Long-term memory and working rules for Claude Code sessions in this
 repository. Read this before doing any work here.
 
+> **New session?** Read `HANDOFF.md` next — it carries the current state
+> and your immediate next action.
+
 ## What this project is
 
 Dora's personal-website project. The repository currently holds **content,
