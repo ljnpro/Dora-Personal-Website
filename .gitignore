@@ -1,0 +1,12 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# environment files (none expected, but never commit them)
+.env*
+!.env.example
+
+# just in case tooling ever runs here
+node_modules/
